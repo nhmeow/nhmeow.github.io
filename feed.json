@@ -1,0 +1,23 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Barren Cat",
+    "home_page_url": "https://barren.cat",
+    "feed_url": "https://barren.cat/feed.json",
+    "description": "Barren Cat's Blog",
+    "items": [
+        {
+            "id": "https://barren.cat/2020/08/13/new-cat/",
+            "url": "https://barren.cat/2020/08/13/new-cat/",
+            "title": "New Cat Born",
+            "summary": "Umm, this is a new cat. A cat’s exclusive blog has been created. This blog will update some of my daily life and release new works from time to time. First time meeting, please take care 🍪",
+            "date_modified": "2020-08-13T00:00:00.000Z"
+        },
+        {
+            "id": "https://barren.cat/zh/2020/08/13/new-cat/",
+            "url": "https://barren.cat/zh/2020/08/13/new-cat/",
+            "title": "全新的猫猫出生啦",
+            "summary": "唔姆，这里是新的南荒喵，喵喵专属博客创立啦，本博客会不定期更新一些喵喵的日常，以及新作的发布。初次见面，请多多关照 🍪",
+            "date_modified": "2020-08-13T00:00:00.000Z"
+        }
+    ]
+}
