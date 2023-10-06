@@ -1,0 +1,1 @@
+const e=JSON.parse(`{"key":"v-2d0ad528","path":"/zh/","title":"Meow","lang":"zh-CN","frontmatter":{"home":true,"title":"Meow","lang":"zh-CN","permalinkPattern":null,"content":"CowCowI'mMeow"},"headers":[],"git":{"updatedTime":1696598858000,"contributors":[{"name":"Sobte","email":"i@sobte.me","commits":1}]},"filePathRelative":"zh/index.md"}`);export{e as data};

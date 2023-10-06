@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4be7859d","path":"/zh/category/%E6%97%A5%E5%B8%B8/","title":"Category: 日常","lang":"en-US","frontmatter":{"title":"Category: 日常","categoriesLayout":true,"blog":{"type":"category","name":"日常","key":"category"},"layout":"Layout"},"headers":[],"git":{},"filePathRelative":null,"excerpt":""}');export{e as data};

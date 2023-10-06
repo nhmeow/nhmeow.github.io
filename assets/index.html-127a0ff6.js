@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d0a7df8","path":"/ca/","title":"Inici","lang":"ca","frontmatter":{"home":true,"title":"Inici","lang":"ca","permalinkPattern":null,"content":"VacaVacaSócMeow"},"headers":[],"git":{"updatedTime":1696598858000,"contributors":[{"name":"Sobte","email":"i@sobte.me","commits":1}]},"filePathRelative":"ca/index.md"}');export{e as data};
