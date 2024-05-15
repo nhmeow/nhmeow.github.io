@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://barren.cat/ca/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://barren.cat/ca/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Gat Estèril</title>
+    <link>https://barren.cat/ca/</link>
+    <description>Blog Gat Estèril</description>
+    <language>ca</language>
+    <pubDate>Wed, 15 May 2024 11:23:06 GMT</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 11:23:06 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+  </channel>
+</rss>

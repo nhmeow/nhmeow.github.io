@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://barren.cat/zh/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://barren.cat/zh/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>南荒喵</title>
+    <link>https://barren.cat/zh/</link>
+    <description>南荒喵的博客，一个虚拟偶像的日常，没事会水水动漫，作画，以及想法</description>
+    <language>zh-CN</language>
+    <pubDate>Wed, 15 May 2024 11:23:06 GMT</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 11:23:06 GMT</lastBuildDate>
+    <generator>@vuepress/plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>日常</category>
+    <item>
+      <title>全新的猫猫出生啦</title>
+      <link>https://barren.cat/zh/2020/08/13/new-cat/</link>
+      <guid>https://barren.cat/zh/2020/08/13/new-cat/</guid>
+      <source url="https://barren.cat/zh/rss.xml">全新的猫猫出生啦</source>
+      <description>唔姆，这里是新的南荒喵，喵喵专属博客创立啦，本博客会不定期更新一些喵喵的日常，以及新作的发布。初次见面，请多多关照 🍪
+
+📝 取名及由来 🍊
+关于南荒，这个名字全称是叫 岛城南荒=，此名称来自网络，也是喵曾经的网名，后来被吐槽太过非主流，喵就把 岛城 与 = 去除，留下了南荒。
+
+南荒，nán huāng。指南方荒凉遥远的地方。
+
+这个词语也含有...</description>
+      <category>日常</category>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>唔姆，这里是新的南荒喵，喵喵专属博客创立啦，本博客会不定期更新一些喵喵的日常，以及新作的发布。初次见面，请多多关照 🍪</p>
+<!-- more -->
+<h2>📝 取名及由来 <a class="header-anchor" href="#📝-取名及由来" aria-hidden="true">🍊</a></h2>
+<p>关于南荒，这个名字全称是叫 岛城南荒=，此名称来自网络，也是喵曾经的网名，后来被吐槽太过非主流，喵就把 岛城 与 = 去除，留下了南荒。</p>
+<blockquote>
+<p>南荒，nán huāng。指南方荒凉遥远的地方。</p>
+</blockquote>
+<p>这个词语也含有 荒芜，荒凉 等意思，正好挺符合我个人的实际社交情况的，就又沿用了4年，由于 南荒喵 作为名词，英文翻译过于困难，这里本喵指定一个英文名作为南荒喵的英文名称：Barren Cat 。</p>
+<h2>🎨 人物创作 <a class="header-anchor" href="#🎨-人物创作" aria-hidden="true">🍊</a></h2>
+<p>在初步设定上是以 兽，猫 为主，本意是想做一个猫娘，可是由谁去维护呢，好吧，只能自己去维护，自己是个男孩子呢，那就做个 兽太 吧？正太的话，声音也不符合，就这样在内心博弈很久之后，还是决定画自己喜欢的，然后找个比较会 玩游戏、符合人设 的来活动这个人物。自己负责后勤，作画，维护就好。目前的话还是由本人在维护，详细的人物介绍将在 <a href="/zh/build.html" target="_blank">人物设定</a> 页面描述，这里不过多阐述，这里只记录一些创作时的想法。</p>
+<h2>📋 一些预期安排 <a class="header-anchor" href="#📋-一些预期安排" aria-hidden="true">🍊</a></h2>
+<p>计划上这个人物将会主要活动在 <a href="https://www.youtube.com/channel/UCKvT-Fza3hnXM3m47lCCjPw" target="_blank" rel="noopener noreferrer">YouTube</a> / <a href="https://space.bilibili.com/32597774" target="_blank" rel="noopener noreferrer">BiliBili</a> 等平台，<a href="https://twitter.com/nhmiao" target="_blank" rel="noopener noreferrer">Twitter</a> / <a href="https://t.me/nhnotice" target="_blank" rel="noopener noreferrer">Telegram</a> 用于发布动态通知以及一些新表情的制作，<a href="https://pixiv.net/users/55522166" target="_blank" rel="noopener noreferrer">Pixiv</a> 上则是插画（大图）的发布。讨论与交流的平台目前是 <a href="https://t.me/nhfans" target="_blank" rel="noopener noreferrer">Telegram</a> / <a href="https://discord.gg/Yy82NY3" target="_blank" rel="noopener noreferrer">Discord</a> 等社区平台上交流，主要还是以人物作画为主的讨论或者喜欢南荒喵这个角色的都可以参与进来交流。</p>
+<p>最后祝您阅读愉快，喜欢的话可以点击标题旁边的 <a href="/zh/about.html" target="_blank">关于</a> 链接，在您喜欢的 <a href="/zh/about.html#platform" target="_blank">平台</a> 关注喵喵，感谢您的支持 💖</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://barren.cat/zh/about.html</link>
+      <guid>https://barren.cat/zh/about.html</guid>
+      <source url="https://barren.cat/zh/rss.xml">About</source>
+      <description>南荒喵 🍊
+简介 🍊
+
+是一只猫
+热爱工作与学习，是水果店老板最喜欢的猫猫
+
+邮箱 🍊
+
+nhmeow@outlook.com (master)
+nhmiao@outlook.com
+
+表情包 🍊
+
+nhmiao
+nhmeow (updating)
+
+活动平台 🍊
+
+telegram: @nhnotice
+twitter: @nhmiao
+p...</description>
+      <content:encoded><![CDATA[<h2>南荒喵 <a class="header-anchor" href="#南荒喵" aria-hidden="true">🍊</a></h2>
+<h3>简介 <a class="header-anchor" href="#简介" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>是一只猫</li>
+<li>热爱工作与学习，是水果店老板最喜欢的猫猫</li>
+</ul>
+<h3>邮箱 <a class="header-anchor" href="#邮箱" aria-hidden="true">🍊</a></h3>
+<ul>
+<li><a href="mailto:nhmeow@outlook.com">nhmeow@outlook.com</a> (master)</li>
+<li><a href="mailto:nhmiao@outlook.com">nhmiao@outlook.com</a></li>
+</ul>
+<h3>表情包 <a class="header-anchor" href="#表情包" aria-hidden="true">🍊</a></h3>
+<ul>
+<li><a href="https://t.me/addstickers/nhmiao" target="_blank" rel="noopener noreferrer">nhmiao</a></li>
+<li><a href="https://t.me/addstickers/nhmeow" target="_blank" rel="noopener noreferrer">nhmeow</a> (updating)</li>
+</ul>
+<h3>活动平台 <a class="header-anchor" href="#活动平台" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>telegram: <a href="https://t.me/nhnotice" target="_blank" rel="noopener noreferrer">@nhnotice</a></li>
+<li>twitter: <a href="https://twitter.com/nhmiao" target="_blank" rel="noopener noreferrer">@nhmiao</a></li>
+<li>pixiv: <a href="https://pixiv.net/users/55522166" target="_blank" rel="noopener noreferrer">55522166</a></li>
+<li>youtube: <a href="https://www.youtube.com/channel/UCKvT-Fza3hnXM3m47lCCjPw" target="_blank" rel="noopener noreferrer">BarrenCat</a></li>
+<li>bilibili: <a href="https://space.bilibili.com/32597774" target="_blank" rel="noopener noreferrer">32597774</a></li>
+<li>github: <a href="https://github.com/nhmeow" target="_blank" rel="noopener noreferrer">nhmeow</a></li>
+</ul>
+<h3>即时通讯 <a class="header-anchor" href="#即时通讯" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>telegram: <a href="https://t.me/nhfans" target="_blank" rel="noopener noreferrer">@nhfans</a></li>
+<li>discord: <a href="https://discord.gg/Yy82NY3" target="_blank" rel="noopener noreferrer">BarrenCat</a></li>
+<li>qq group: <a href="https://jq.qq.com/?_wv=1027&amp;k=Kktvwx3Y" target="_blank" rel="noopener noreferrer">151333132</a></li>
+</ul>
+<h3>匿名提问 <a class="header-anchor" href="#匿名提问" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>marshmallow: <a href="https://marshmallow-qa.com/nhmiao" target="_blank" rel="noopener noreferrer">nhmiao</a></li>
+<li>peing: <a href="https://peing.net/zh-CN/nhmeow" target="_blank" rel="noopener noreferrer">nhmeow</a></li>
+</ul>
+<h3>游戏 <a class="header-anchor" href="#游戏" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>Minecraft</li>
+<li>Terraria</li>
+</ul>
+<h3>赞助 <a class="header-anchor" href="#赞助" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>patreon: <a href="https://www.patreon.com/nhmeow" target="_blank" rel="noopener noreferrer">nhmeow</a> (imperfect)</li>
+<li>afdian: <a href="https://afdian.net/@nhmeow" target="_blank" rel="noopener noreferrer">@nhmeow</a></li>
+</ul>
+<h2>网站 <a class="header-anchor" href="#网站" aria-hidden="true">🍊</a></h2>
+<h3>源码 <a class="header-anchor" href="#源码" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>github: <a href="https://github.com/nhmeow/nhmeow-blog" target="_blank" rel="noopener noreferrer">https://github.com/nhmeow/nhmeow-blog</a></li>
+</ul>
+<h3>版权 <a class="header-anchor" href="#版权" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>请勿将任何插图用于商业用途，转载请署名</li>
+<li>所有的博客文章的协议均是 <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh" target="_blank" rel="noopener noreferrer">署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)</a></li>
+</ul>
+<h3>杂项 <a class="header-anchor" href="#杂项" aria-hidden="true">🍊</a></h3>
+<ul>
+<li>此网站是由 Sobte 所编写</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Build</title>
+      <link>https://barren.cat/zh/build.html</link>
+      <guid>https://barren.cat/zh/build.html</guid>
+      <source url="https://barren.cat/zh/rss.xml">Build</source>
+      <description>南荒喵 🍊
+
+
+TODO: Under construction</description>
+      <content:encoded><![CDATA[<h2>南荒喵 <a class="header-anchor" href="#南荒喵" aria-hidden="true">🍊</a></h2>
+<blockquote></blockquote>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
